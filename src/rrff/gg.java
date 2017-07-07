@@ -11,9 +11,9 @@ public class gg {
 	// do not gao shi qing!!OK？？
 		System.out.println("welcome!!");//fff
 		System.out.println("hangzzhou welcome!!");
-		//zenm me jiu buxing??buxing jiushi  buxing>>>>.
-		System.out.println("ni hao a  bai chi!!");//dddgfgfhdgdfgdfg
+
+//zenm me jiu buxing??buxing jiushi  buxing>>>>.bie gaoxiao l .....
+        System.out.println("ni hao a  bai chi!!");//dddgfgfhdgdfgdfg
 		System.out.println("yuyuyuyuyu");
-	
    }
 }
