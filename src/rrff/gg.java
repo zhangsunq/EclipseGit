@@ -12,6 +12,6 @@ public class gg {
 		System.out.println("welcome!!");//fff
 		System.out.println("hangzzhou welcome!!");
 	//zenm me jiu buxing??
-		System.out.println("ni hao a  bai chi!!");
+		System.out.println("ni hao a  bai chi!!");//ddd
    }
 }
