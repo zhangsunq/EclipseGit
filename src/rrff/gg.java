@@ -16,6 +16,6 @@ public class gg {
         System.out.println("ni hao a  bai chi!!");//dddgfgfhdgdfgdfg
 		System.out.println("yuyuyuyuyu");
 		System.out.println("shuxue hao a ");//bie dou bi l 
-		System.out.println("zuihoudexiugail!!!");
+		System.out.println("zuihoudexiugail!!!");//ssssss
    }
 }
