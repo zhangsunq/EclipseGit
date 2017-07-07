@@ -7,6 +7,8 @@ public class gg {
 		System.out.println("hello world!!");//sssszaaasdaas你好 世界！！！
 		System.out.println("ssssssss");//fffffffyfyff
 	System.out.println("yan an");
+	System.out.println("yxi an");
+	
 		System.out.println("welcome!!");//fff
 	}
 }
