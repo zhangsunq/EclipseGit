@@ -15,9 +15,6 @@ public class gg {
 //zenm me jiu buxing??buxing jiushi  buxing>>>>.bie gaoxiao l .....
         System.out.println("ni hao a  bai chi!!");//dddgfgfhdgdfgdfg
 		System.out.println("yuyuyuyuyu");
-<<<<<<< HEAD
 		System.out.println("shuxue hao a ");
-=======
->>>>>>> branch 'master' of https://github.com/zhangsunq/EclipseGit.git
    }
 }
