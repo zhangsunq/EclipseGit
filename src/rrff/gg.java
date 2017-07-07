@@ -1,4 +1,4 @@
-package rrff;
+ package rrff;
 
 public class gg {
 	//sdxfgsdfvzxc 谢谢你 你好啊！！！
@@ -11,10 +11,13 @@ public class gg {
 	// do not gao shi qing!!OK？？
 		System.out.println("welcome!!");//fff
 		System.out.println("hangzzhou welcome!!");
-
+       // shu xue hao  ge  lan  zi !!!!
 //zenm me jiu buxing??buxing jiushi  buxing>>>>.bie gaoxiao l .....
         System.out.println("ni hao a  bai chi!!");//dddgfgfhdgdfgdfg
 		System.out.println("yuyuyuyuyu");
+<<<<<<< HEAD
 		System.out.println("shuxue hao a ");
+=======
+>>>>>>> branch 'master' of https://github.com/zhangsunq/EclipseGit.git
    }
 }
