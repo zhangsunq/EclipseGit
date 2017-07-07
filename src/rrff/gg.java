@@ -11,5 +11,6 @@ public class gg {
 	// do not gao shi qing!!OK？？
 		System.out.println("welcome!!");//fff
 		System.out.println("hangzzhou welcome!!");
+	//zenm me jiu buxing??
    }
 }
