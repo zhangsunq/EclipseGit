@@ -19,5 +19,6 @@ public class gg {
 
 		System.out.println("zuihoudexiugail!!!");//ssrrr
 		int i =7;
+		int p =99;
    }
 }
