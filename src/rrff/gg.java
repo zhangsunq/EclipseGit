@@ -14,8 +14,9 @@ public class gg {
        // shu xue hao  ge  lan  zi !!!!
 //zenm me jiu buxing??buxing jiushi  buxing>>>>.bie gaoxiao l .....
         System.out.println("ni hao a  bai chi!!");//dddgfgfhdgdfgdfg
-		System.out.println("yuyuyuyuyu");
+		System.out.println("yuyuyuyuyu");//dddddddddf
 		System.out.println("shuxue hao a ");//bie dou bi l 
+
 		System.out.println("zuihoudexiugail!!!");//ssssss
    }
 }
