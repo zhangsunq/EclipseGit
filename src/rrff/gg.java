@@ -13,6 +13,7 @@ public class gg {
 		System.out.println("hangzzhou welcome!!");
 		//zenm me jiu buxing??buxing jiushi  buxing>>>>.
 		System.out.println("ni hao a  bai chi!!");//dddgfgfhdgdfgdfg
+		System.out.println("yuyuyuyuyu");
 	
    }
 }
