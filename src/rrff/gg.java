@@ -10,5 +10,7 @@ public class gg {
 	System.out.println("yxi an");
 	// do not gao shi qing!!OK？？
 		System.out.println("welcome!!");//fff
+		//sueqlknzlkxclk!!!
+		
 	}
 }
