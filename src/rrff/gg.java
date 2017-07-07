@@ -21,5 +21,6 @@ public class gg {
 		int i =7;//sasasasas
 		int p =99;
 		int t =88;
+		String s="dfghw";
    }
 }
