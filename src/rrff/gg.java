@@ -18,7 +18,7 @@ public class gg {
 		System.out.println("shuxue hao a ");//bie dou bi l 
 
 		System.out.println("zuihoudexiugail!!!");//ssrrr
-		int i =7;
+		int i =7;//sasasasas
 		int p =99;
    }
 }
